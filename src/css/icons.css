@@ -1,0 +1,33 @@
+/* AMENITIES */
+.icons-amenities{
+    background: #ffe3c2;
+    border-radius: 40px;
+    margin: auto;
+    height: 123px;
+    width:120px;
+    background: linear-gradient(#ffead2 0%, #ffd6b2 100%);
+
+}
+
+.icons-amenities img{
+    height: 100px;
+    width: 100px;
+    margin: auto;
+    top:12px;
+    position: relative;
+}
+
+/* Financiamiento */
+.icons-financy{
+    background: #ffe3c2;
+    border-radius: 40px;
+    margin: auto;
+    height: 120px;
+    width:120px;
+    background: linear-gradient(#ffead2 0%, #ffd6b2 100%);
+}
+
+.icons-financy img{
+    margin: auto;
+    position: relative;
+}
